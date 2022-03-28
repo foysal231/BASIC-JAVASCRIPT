@@ -1,0 +1,5 @@
+const FCC = "freeCodeCamp";
+let fact = "is cool!";
+// Only change code above this
+fact = "is cool!";
+console.log(FCC, fact);

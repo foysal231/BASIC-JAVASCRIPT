@@ -1,0 +1,4 @@
+// Change code below this line
+const someAdjective = "hridoy";
+let myStr = "foysal";
+myStr += someAdjective ;
